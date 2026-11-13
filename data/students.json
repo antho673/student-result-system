@@ -1,0 +1,26 @@
+{
+    "24/sci01/050": {
+        "student_id": "24/sci01/050",
+        "full_name": "Badmus Anthony",
+        "class_name": "100 Level",
+        "gender": "M",
+        "dob": "2008-08-21",
+        "scores": {
+            "Mathematics": 50.0,
+            "English Language": 70.0,
+            "Basic Science": 90.0,
+            "Social Studies": 80.0,
+            "Computer Science": 90.0
+        },
+        "date_added": "2026-11-12 14:47:50"
+    },
+    "24/sc01/090": {
+        "student_id": "24/sc01/090",
+        "full_name": "Apakala Azzez",
+        "class_name": "SS2",
+        "gender": "M",
+        "dob": "2023-09-15",
+        "scores": {},
+        "date_added": "2026-11-12 15:16:20"
+    }
+}
