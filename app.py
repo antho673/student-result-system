@@ -1,8 +1,8 @@
-from flask import flask
+from flask import Flask
 
 app= Flask(___name___)
 
-@app.roue('/')
+@app.route('/')
 def home():
     return "Student Result System is Live and Running"
 if __name__== '__main__':
