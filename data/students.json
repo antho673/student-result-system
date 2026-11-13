@@ -22,5 +22,14 @@
         "dob": "2023-09-15",
         "scores": {},
         "date_added": "2026-11-12 15:16:20"
+    },
+    "cls": {
+        "student_id": "cls",
+        "full_name": "clc",
+        "class_name": "cc",
+        "gender": "c",
+        "dob": "c",
+        "scores": {},
+        "date_added": "2026-11-13 22:09:04"
     }
 }
